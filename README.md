@@ -1,7 +1,7 @@
 # Content-Based Movie Recommender System
 
 #### Salary Expectation Per Month: 
- $2500 - 3000
+ $2000-2400
 
 #### Demo Video:
 [YouTube Video](https://youtu.be/_6ISeu_XY6w)
