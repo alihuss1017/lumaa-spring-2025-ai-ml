@@ -1,5 +1,7 @@
 # Content-Based Movie Recommender System
 
+#### Salary Expectation Per Month: 
+ $2500 - 3000
 
 #### Demo Video:
 [YouTube Video](https://youtu.be/_6ISeu_XY6w)
@@ -42,10 +44,6 @@ Install dependencies: `pip install -r requirements.txt`
 <ul><li>
 
 To run the code, open `main.ipynb` and run all. 
-</li>
-<li> 
-
-If you'd like to experiment with the query, scroll to the very bottom and change the `query` variable value to your desired query, then run the cell. 
 </li>
 </ul>
 
